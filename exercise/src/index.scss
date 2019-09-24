@@ -1,0 +1,12 @@
+@import "~bulma/bulma.sass";
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.container.is-fluid {
+    margin-right: 0;
+    margin-left: 0;
+}
